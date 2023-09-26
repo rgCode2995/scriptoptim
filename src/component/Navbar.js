@@ -28,7 +28,7 @@ function Navbar() {
       <div className='container-lg'>
         <div className="d-flex align-items-center justify-content-between">
           <Link to="home" offset={-80}>
-            <img src={logo} alt="logo" className='logoimg' />
+            <img src={logo} alt="logo" className='logoimg' width="198px"/>
           </Link>
           <ul className={menu ? "menu_per " : "menu_per show_menu"}>
             <li className='navbar_menu'>

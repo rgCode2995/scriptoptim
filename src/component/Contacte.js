@@ -82,15 +82,15 @@ function Contacte() {
                             <i className='icon'><GrMail /></i>
                             <div>
                                 <p className='app_title'>Email Address</p>
-                                <p className='app_detailes'>hr.scriptoptim@gmail.com</p>
-                                <p className='app_detailes'>scriptoptim368@gmail.com</p>
+                                {/* <p className='app_detailes'>hr.scriptoptim@gmail.com</p> */}
+                                <p className='app_detailes'>scriptoptiminfotech@gmail.com</p>
                             </div>
                         </div>
                         <div className='from_detailes col-12 d-flex mb-4'>
                             <i className='icon'><MdCall /></i>
                             <div>
                                 <p className='app_title'>Mobile Number</p>
-                                <p className='app_detailes'>+91 2613538481</p>
+                                <p className='app_detailes'>+91 2614606316</p>
                             </div>
                         </div>
                         <div className='from_detailes col-12 d-flex mb-4'>
